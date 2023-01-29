@@ -6,8 +6,8 @@
             <!-- logo -->
             <a href="/" class="logo">
                 <img 
-                    class="w-16 h-auto"
-                    src="../assets/img/nth-logo.png" 
+                    class="w-16 h-auto text-8269BD"
+                    src="../assets/svg/logo.svg" 
                     alt="">
             </a>
 
